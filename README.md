@@ -4,7 +4,7 @@
 I'm a full-stack web-developer from Pokhara, Nepal. I graduated in Computer Science and Information Technology from Mount Annapurna Campus,Pokhara Nepal. I like building new stuff and working with other people.
 
 
-[![Instagram Badge](https://img.shields.io/badge/-@subash_poudel96-purple?style=flat-square&logo=instagram&logoColor=white&link=https://https://www.instagram.com/subash_poudel96/)](https://instagram.com/prajwal.iar)
+[![Instagram Badge](https://img.shields.io/badge/-@subash_poudel96-purple?style=flat-square&logo=instagram&logoColor=white&link=https://https://www.instagram.com/subash_poudel96/)](https://instagram.com/subash_poudel96)
 [![Gmail Badge](https://img.shields.io/badge/-subashpoudel193@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:subashpoudel193@gmail.com)](mailto:subashpoudel193@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Prajwalrai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prajwal100/)](https://www.linkedin.com/in/prajwal100/)
 [![Telegram Badge](https://img.shields.io/badge/-@prajwalrai-0088CC?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/Praajwal.iar/ "Contact on Telegram")
