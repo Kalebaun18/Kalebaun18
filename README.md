@@ -1,26 +1,23 @@
 ## Hi there नमस्ते (Namaste)! <img src="https://github.com/inspirasiprogrammer/inspirasiprogrammer/blob/main/wave.gif" width="30px">
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350" style="max-width: 100%;">
-<h4> Fullstack web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h4>
+<h4> Node js Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h4>
 I'm a full-stack web-developer from Pokhara, Nepal. I graduated in Computer Science and Information Technology from Mount Annapurna Campus,Pokhara Nepal. I like building new stuff and working with other people.
 
 
 [![Instagram Badge](https://img.shields.io/badge/-@subash_poudel96-purple?style=flat-square&logo=instagram&logoColor=white&link=https://https://www.instagram.com/subash_poudel96/)](https://instagram.com/subash_poudel96)
 [![Gmail Badge](https://img.shields.io/badge/-@subashpoudel193@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:subashpoudel193@gmail.com)](mailto:subashpoudel193@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-@subash_poudel96-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/subash-poudel-12b6b9182/)](https://www.linkedin.com/in/subash-poudel-12b6b9182/)
+[![Linkedin Badge](https://img.shields.io/badge/-@subashPoudel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/subash-poudel-12b6b9182/)](https://www.linkedin.com/in/subash-poudel-12b6b9182/)
 [![Telegram Badge](https://img.shields.io/badge/-@SubashPoudel-0088CC?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/Kalebaun96/ "Contact on Telegram")
 
-Like My Work?
 
-<a href="https://www.buymeacoffee.com/prajwalrai" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
 ### You can find my stuff here :leaves:
 
-- My Personal Website :yum: [raiprajwal.com](https://raiprajwal.com)
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Swivt Technologies
-- 🌱 I’m currently learning Flutter & VueJS
+- 🔭 I’m currently working on Brand Builder
+- 🌱 I’m currently learning React 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -32,8 +29,6 @@ Here are some ideas to get you started:
 
 <!--- just --->
 
-![Laravel](https://img.shields.io/badge/-Laravel-00599C?style=flat-square&logo=Laravel)
-![VueJs](https://img.shields.io/badge/vuejs-2.x-brightgreen.svg?style=flat-square)
 ![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
@@ -53,12 +48,10 @@ Here are some ideas to get you started:
 
 ### Languages and Tools
 
-<img align="left" src="https://simpleicons.org/icons/laravel.svg" alt="Laravel" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/flutter.svg" alt="Flutter" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/html5.svg" alt="HTML5" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/css3.svg" alt="CSS3" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/visualstudiocode.svg" alt="VSCode" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/jetbrains.svg" alt="JetBrains Tools" height="40px" />
 <br />
 
 #
